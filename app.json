@@ -5,7 +5,7 @@
     "env": {
         "UUID": {
             "description": "UUID, can generated at: https://www.uuidgenerator.net",
-            "value": "8f91b6a0-e8ee-11ea-adc1-0242ac120002"
+            "value": "68b0b43d-2506-43e8-b22f-3a0ba28a1376"
         },
         "SS_Encypt": {
             "description": "ss encryption method",
